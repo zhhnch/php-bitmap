@@ -1,0 +1,13 @@
+{
+    "name": "zhhnch/php-bitmap",
+    "description": "php bitmap",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhhnch",
+            "email": "zhhnch@outlook.com"
+        }
+    ],
+    "require": {}
+}
